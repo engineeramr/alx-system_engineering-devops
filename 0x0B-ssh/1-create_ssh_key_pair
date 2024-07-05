@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#creats an RSA SSH key peir
+ssh-keygen -f school -b 4096 -n betty
+
